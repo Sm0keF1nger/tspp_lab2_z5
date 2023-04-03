@@ -1,0 +1,15 @@
+E:\repository\lab2_z5\obj\Debug\net6.0\lab2_z5.csproj.AssemblyReference.cache
+E:\repository\lab2_z5\obj\Debug\net6.0\lab2_z5.GeneratedMSBuildEditorConfig.editorconfig
+E:\repository\lab2_z5\obj\Debug\net6.0\lab2_z5.AssemblyInfoInputs.cache
+E:\repository\lab2_z5\obj\Debug\net6.0\lab2_z5.AssemblyInfo.cs
+E:\repository\lab2_z5\obj\Debug\net6.0\lab2_z5.csproj.CoreCompileInputs.cache
+E:\repository\lab2_z5\bin\Debug\net6.0\lab2_z5.exe
+E:\repository\lab2_z5\bin\Debug\net6.0\lab2_z5.deps.json
+E:\repository\lab2_z5\bin\Debug\net6.0\lab2_z5.runtimeconfig.json
+E:\repository\lab2_z5\bin\Debug\net6.0\lab2_z5.dll
+E:\repository\lab2_z5\bin\Debug\net6.0\lab2_z5.pdb
+E:\repository\lab2_z5\obj\Debug\net6.0\lab2_z5.dll
+E:\repository\lab2_z5\obj\Debug\net6.0\refint\lab2_z5.dll
+E:\repository\lab2_z5\obj\Debug\net6.0\lab2_z5.pdb
+E:\repository\lab2_z5\obj\Debug\net6.0\lab2_z5.genruntimeconfig.cache
+E:\repository\lab2_z5\obj\Debug\net6.0\ref\lab2_z5.dll
